@@ -58,7 +58,7 @@ weather-app/
 ---
 
 ## 📌 Example Output
-```--------Weather Forecast for London--------
+``--------Weather Forecast for London--------
 
 City: London
 State: City of London, Greater London
@@ -66,7 +66,7 @@ Country: United Kingdom
 Temperature: 18°C
 Weather: Partly cloudy
 Local Time: 2026-01-06 10:15
-Last Updated: 2026-01-06 10:00
+Last Updated: 2026-01-06 10:00``
 
 ---
 
