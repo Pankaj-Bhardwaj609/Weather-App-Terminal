@@ -45,16 +45,18 @@ weather-app/
 2. Generate your API key
 3. Create a `.env` file in the project root
 4. Add your API key like this:
-
 `API_KEY=your_api_key_here`
 
 ---
 
 ## 📦 Installation
-
-1. Install required packages:
+1. Clone the repository:
+```
+git clone 
+``` 
+3. Install required packages:
 `pip install requests python-dotenv`
-2. Download and Run the application in your Code Editor:
+4. Download and Run the application in your Code Editor:
 `python weather.py`
 
 ---
