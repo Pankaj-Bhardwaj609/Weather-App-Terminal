@@ -58,7 +58,7 @@ weather-app/
 ---
 
 ## 📌 Example Output
-``--------Weather Forecast for London--------
+```--------Weather Forecast for London--------
 
 City: London
 State: City of London, Greater London
