@@ -28,12 +28,12 @@ This app fetches **real-time weather data** for any city using the **WeatherAPI*
 
 ## 📂 Project Structure
 
-weather-app/
+``weather-app/
 │
 ├── weather.py # Main application file
 ├── .env # API key (not pushed to GitHub)
 ├── .gitignore # Ignored files
-└── README.md # Project documentation
+└── README.md # Project documentation``
 
 ---
 
