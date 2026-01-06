@@ -28,12 +28,14 @@ This app fetches **real-time weather data** for any city using the **WeatherAPI*
 
 ## 📂 Project Structure
 
-``weather-app/
+```
+weather-app/
 │
 ├── weather.py # Main application file
 ├── .env # API key (not pushed to GitHub)
 ├── .gitignore # Ignored files
-└── README.md # Project documentation``
+└── README.md # Project documentation
+```
 
 ---
 
@@ -54,6 +56,22 @@ This app fetches **real-time weather data** for any city using the **WeatherAPI*
 `pip install requests python-dotenv`
 2. Download and Run the application in your Code Editor:
 `python weather.py`
+
+---
+
+## 📌 Example Output
+
+```
+--------Weather Forecast for London--------
+
+City: London
+State: City of London, Greater London
+Country: United Kingdom
+Temperature: 18°C
+Weather: Partly cloudy
+Local Time: 2026-01-06 10:15
+Last Updated: 2026-01-06 10:00
+```
 
 ---
 
