@@ -52,7 +52,7 @@ weather-app/
 ## 📦 Installation
 1. Clone the repository:
 ```
-git clone 
+git clone https://github.com/Pankaj-Bhardwaj609/Weather-App-Terminal.git
 ``` 
 3. Install required packages:
 `pip install requests python-dotenv`
